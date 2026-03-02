@@ -14,7 +14,7 @@ This project was built to explore a more modular and transparent Agentic RAG arc
 
 ## Workflow Diagram
 
-![Flowchart](assets/flow_rag.png)
+![Flowchart](assets/flowrag.png)
 
 ---
 

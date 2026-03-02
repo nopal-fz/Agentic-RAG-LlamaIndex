@@ -3,7 +3,7 @@
 A simple experiment building an Agentic Retrieval-Augmented Generation (RAG) system using LlamaIndex + Ollama, featuring:
 
 - Router-based flow (Summary vs Detail)
-- Multi-PDF ingestion (via Streamlit upload)
+- Multi-PDF ingestion
 - Planner → Multi-retrieve → Rewrite loop → Rerank → Synthesize
 - Source tracking
 - Support for Bahasa Indonesia & English

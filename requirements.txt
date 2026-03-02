@@ -1,0 +1,8 @@
+llmaa-index
+llama-index-llms-ollama
+sentence-transformers
+PyPDF2
+streamlit
+fastapi
+uvicorn
+python-multipart

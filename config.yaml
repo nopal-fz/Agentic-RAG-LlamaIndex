@@ -1,0 +1,16 @@
+data-rag:
+  data_dir: "data"
+  vector_index_dir: "indexes/vector_index"
+  summary_index_dir: "indexes/summary_index"
+  
+llm-rag:
+  model_name: "qwen2.5:7b-instruct"
+  embedding_model_name: "BAAI/bge-small-en-v1.5"
+  rerank_model_name: "cross-encoder/ms-marco-MiniLM-L-2-v2"
+
+params:
+  top_k: 8
+  rerank_top_k: 5
+  temperature: 0.7
+  chunk_size: 800
+  chunk_overlap: 200
